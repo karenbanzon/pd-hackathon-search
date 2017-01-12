@@ -48,10 +48,10 @@
 				<!-- off-canvas right menu -->
 				<div class="off-canvas position-right" id="offCanvasRight" data-off-canvas data-position="right">
 					<ul class="vertical menu">
-						<li><a href="">Menu 1</a></li>
-						<li><a href="">Menu 2</a></li>
-						<li><a href="">Menu 3</a></li>
-						<li><a href="">Menu 4</a></li>
+						<li><a href="">Home</a></li>
+						<li><a href="">Location Detection</a></li>
+						<li><a href="">Broad Search</a></li>
+						<li><a href="">Keyword Learning</a></li>
 					</ul>
 				</div>
 
@@ -64,10 +64,10 @@
 									<a href=""><img src="images/olx-logo.png"></a>
 								</div>
 							</li>
-							<li><a href="">Menu 1</a></li>
-							<li><a href="">Menu 2</a></li>
-							<li><a href="">Menu 3</a></li>
-							<li><a href="">Menu 4</a></li>
+							<li><a href="">Home</a></li>
+							<li><a href="">Location Detection</a></li>
+							<li><a href="">Broad Search</a></li>
+							<li><a href="">Keyword Learning</a></li>
 						</ul>
 					</div>
 				</header>

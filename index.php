@@ -48,10 +48,10 @@
 			</div>
 		</div>
 
-		<!-- Normal Cards -->
-		<div class="small-12 large-8 large-offset-2 padding-10" data-equalizer>
+		<!-- Normal Ads -->
+		<div class="small-12 large-8 large-offset-2 clearfix padding-10" data-equalizer="searchResults">
 			<div class="card small-12 medium-6 large-3">
-				<div class="card-container" data-equalizer-watch>
+				<div class="card-container" data-equalizer-watch="searchResults">
 					<img src="http://unsplash.it/400/300/?random">
 					<div class="card-body">
 						<p class="title"><strong>Lenovo Thinkpad T450 Ultrabook (14 inch, i5 broadw...</strong></p>
@@ -66,7 +66,7 @@
 				</div>
 			</div>
 			<div class="card small-12 medium-6 large-3">
-				<div class="card-container" data-equalizer-watch>
+				<div class="card-container" data-equalizer-watch="searchResults">
 					<img src="http://unsplash.it/400/300/?random">
 					<div class="card-body">
 						<p class="title"><strong>Lenovo ideapad 305 core i3</strong></p>
@@ -81,7 +81,7 @@
 				</div>
 			</div>
 			<div class="card small-12 medium-6 large-3">
-				<div class="card-container" data-equalizer-watch>
+				<div class="card-container" data-equalizer-watch="searchResults">
 					<img src="http://unsplash.it/400/300/?random">
 					<div class="card-body">
 						<p class="title"><strong>Lenovo laptop</strong></p>
@@ -95,8 +95,27 @@
 					</div>
 				</div>
 			</div>
+			<div class="card small-12 text-center">
+				<ul class="pagination padding-20" role="navigation" aria-label="Pagination">
+					<li class="pagination-previous disabled">Previous <span class="show-for-sr">page</span></li>
+					<li class="current"><span class="show-for-sr">You're on page</span> 1</li>
+					<li><a href="#" aria-label="Page 2">2</a></li>
+					<li><a href="#" aria-label="Page 3">3</a></li>
+					<li><a href="#" aria-label="Page 4">4</a></li>
+					<li class="ellipsis" aria-hidden="true"></li>
+					<li><a href="#" aria-label="Page 12">12</a></li>
+					<li><a href="#" aria-label="Page 13">13</a></li>
+					<li class="pagination-next"><a href="#" aria-label="Next page">Next <span class="show-for-sr">page</span></a></li>
+				</ul>
+			</div>
+			<hr>
+		</div>
+
+		<!-- Related Ads -->
+		<div class="small-12 large-8 large-offset-2 clearfix padding-10" data-equalizer="relatedResults">
+			<h4>You might also like</h4>
 			<div class="card small-12 medium-6 large-3">
-				<div class="card-container" data-equalizer-watch>
+				<div class="card-container" data-equalizer-watch="relatedResults">
 					<img src="http://unsplash.it/400/300/?random">
 					<div class="card-body">
 						<p class="title"><strong>Lenovo Thinkpad T450 Ultrabook (14 inch, i5 broadw...</strong></p>
@@ -111,7 +130,7 @@
 				</div>
 			</div>
 			<div class="card small-12 medium-6 large-3">
-				<div class="card-container" data-equalizer-watch>
+				<div class="card-container" data-equalizer-watch="relatedResults">
 					<img src="http://unsplash.it/400/300/?random">
 					<div class="card-body">
 						<p class="title"><strong>Lenovo ideapad 305 core i3</strong></p>
@@ -126,7 +145,7 @@
 				</div>
 			</div>
 			<div class="card small-12 medium-6 large-3">
-				<div class="card-container" data-equalizer-watch>
+				<div class="card-container" data-equalizer-watch="relatedResults">
 					<img src="http://unsplash.it/400/300/?random">
 					<div class="card-body">
 						<p class="title"><strong>Lenovo laptop</strong></p>
@@ -141,7 +160,7 @@
 				</div>
 			</div>
 			<div class="card small-12 medium-6 large-3">
-				<div class="card-container" data-equalizer-watch>
+				<div class="card-container" data-equalizer-watch="relatedResults">
 					<img src="http://unsplash.it/400/300/?random">
 					<div class="card-body">
 						<p class="title"><strong>Lenovo Thinkpad T450 Ultrabook (14 inch, i5 broadw...</strong></p>
@@ -156,7 +175,7 @@
 				</div>
 			</div>
 			<div class="card small-12 medium-6 large-3">
-				<div class="card-container" data-equalizer-watch>
+				<div class="card-container" data-equalizer-watch="relatedResults">
 					<img src="http://unsplash.it/400/300/?random">
 					<div class="card-body">
 						<p class="title"><strong>Lenovo ideapad 305 core i3</strong></p>
@@ -171,7 +190,7 @@
 				</div>
 			</div>
 			<div class="card small-12 medium-6 large-3">
-				<div class="card-container" data-equalizer-watch>
+				<div class="card-container" data-equalizer-watch="relatedResults">
 					<img src="http://unsplash.it/400/300/?random">
 					<div class="card-body">
 						<p class="title"><strong>Lenovo laptop</strong></p>
@@ -186,7 +205,7 @@
 				</div>
 			</div>
 			<div class="card small-12 medium-6 large-3">
-				<div class="card-container" data-equalizer-watch>
+				<div class="card-container" data-equalizer-watch="relatedResults">
 					<img src="http://unsplash.it/400/300/?random">
 					<div class="card-body">
 						<p class="title"><strong>Lenovo Thinkpad T450 Ultrabook (14 inch, i5 broadw...</strong></p>
@@ -201,7 +220,7 @@
 				</div>
 			</div>
 			<div class="card small-12 medium-6 large-3">
-				<div class="card-container" data-equalizer-watch>
+				<div class="card-container" data-equalizer-watch="relatedResults">
 					<img src="http://unsplash.it/400/300/?random">
 					<div class="card-body">
 						<p class="title"><strong>Lenovo ideapad 305 core i3</strong></p>
@@ -216,7 +235,7 @@
 				</div>
 			</div>
 			<div class="card small-12 medium-6 large-3">
-				<div class="card-container" data-equalizer-watch>
+				<div class="card-container" data-equalizer-watch="relatedResults">
 					<img src="http://unsplash.it/400/300/?random">
 					<div class="card-body">
 						<p class="title"><strong>Lenovo laptop</strong></p>
@@ -229,6 +248,54 @@
 						</div>
 					</div>
 				</div>
+			</div>
+			<div class="card small-12 medium-6 large-3">
+				<div class="card-container" data-equalizer-watch="relatedResults">
+					<img src="http://unsplash.it/400/300/?random">
+					<div class="card-body">
+						<p class="title"><strong>Lenovo Thinkpad T450 Ultrabook (14 inch, i5 broadw...</strong></p>
+						<h4 class="price">P 28,000</h4>
+						<div class="text-ash">
+							<small><span class="icon icon-clock"></span><span class="date-posted"> Posted 13m ago</span></small>
+						</div>
+						<div class="text-ash">
+							<small><span class="icon icon-location2"></span><span class="item-location"> San Juan, Metro Manila</span></small>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="card small-12 medium-6 large-3">
+				<div class="card-container" data-equalizer-watch="relatedResults">
+					<img src="http://unsplash.it/400/300/?random">
+					<div class="card-body">
+						<p class="title"><strong>Lenovo ideapad 305 core i3</strong></p>
+						<h4 class="price">P 20,000</h4>
+						<div class="text-ash">
+							<small><span class="icon icon-clock"></span><span class="date-posted"> Posted 1d 1h ago</span></small>
+						</div>
+						<div class="text-ash">
+							<small><span class="icon icon-location2"></span><span class="item-location"> Pasay, Metro Manila</span></small>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="card small-12 medium-6 large-3">
+				<div class="card-container" data-equalizer-watch="relatedResults">
+					<img src="http://unsplash.it/400/300/?random">
+					<div class="card-body">
+						<p class="title"><strong>Lenovo laptop</strong></p>
+						<h4 class="price">P 11,000</h4>
+						<div class="text-ash">
+							<small><span class="icon icon-clock"></span><span class="date-posted"> Posted 22m ago</span></small>
+						</div>
+						<div class="text-ash">
+							<small><span class="icon icon-location2"></span><span class="item-location"> Angono, Rizal</span></small>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="card small-12 text-center padding-20">
+				<a href="" class="button expanded">Show me more</a>
 			</div>
 		</div>
 	</section>
