@@ -4,7 +4,7 @@
 	<section class="expanded row padding-10">
 		<div class="small-12 large-8 large-offset-2 padding-10">
 			<h2>Ano hanap mo?</h1>
-			<div class="small-12 large-6 columns padding-bottom-20">
+			<div class="small-12 large-6 columns">
 				<div class="input-group">
 					<span class="input-group-label icon icon-search"></span>
 					<input class="input-group-field" type="text" placeholder="Ex. Asus Zenfone">
@@ -14,7 +14,7 @@
 				<div class="input-group">
 			        <span class="input-group-label icon icon-location2"> </span>
 			        <select class="input-group-field">
-						<option selected="true" disabled>Select location</option>
+						<option selected="true" disabled>Location</option>
 						<option value="all-philippines">All Philippines</option>
 						<option value="metro-manila">Metro Manila</option>
 						<option value="quezon-city">Quezon City</option>
@@ -28,10 +28,10 @@
 					</div>
 				</div>
 			</div>
-			<div class="small-12 columns padding-bottom-20 suggested-keywords">
+			<div class="small-12 columns padding-top-20 suggested-keywords">
 				<p>Try adding these keywords:</p>
 				<a href="" class="button secondary">secondhand</a>
-				<a href="" class="button secondary">intel</a>
+				<a href="" class="button secondary">core i5</a>
 				<a href="" class="button secondary">thinkpad</a>
 				<a href="" class="button secondary">refurbished</a>
 			</div>

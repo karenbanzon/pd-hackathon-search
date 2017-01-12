@@ -48,10 +48,11 @@
 				<!-- off-canvas right menu -->
 				<div class="off-canvas position-right" id="offCanvasRight" data-off-canvas data-position="right">
 					<ul class="vertical menu">
-						<li><a href="">Home</a></li>
-						<li><a href="">Location Detection</a></li>
-						<li><a href="">Broad Search</a></li>
-						<li><a href="">Keyword Learning</a></li>
+						<li><a href="home.php">Home</a></li>
+						<li><a href="spell-check.php">Spell Check</a></li>
+						<li><a href="location-detection.php">Location Detection</a></li>
+						<li><a href="broad-search.php">Broad Search</a></li>
+						<li><a href="keyword-learning.php">Keyword Learning</a></li>
 					</ul>
 				</div>
 
@@ -64,10 +65,11 @@
 									<a href=""><img src="images/olx-logo.png"></a>
 								</div>
 							</li>
-							<li><a href="">Home</a></li>
-							<li><a href="">Location Detection</a></li>
-							<li><a href="">Broad Search</a></li>
-							<li><a href="">Keyword Learning</a></li>
+							<li><a href="home.php">Home</a></li>
+							<li><a href="spell-check.php">Spell Check</a></li>
+							<li><a href="location-detection.php">Location Detection</a></li>
+							<li><a href="broad-search.php">Broad Search</a></li>
+							<li><a href="keyword-learning.php">Keyword Learning</a></li>
 						</ul>
 					</div>
 				</header>

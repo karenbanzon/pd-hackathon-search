@@ -36,29 +36,28 @@ section {
     &:after { height: 4px; }
 }
 
+// Orbit Fixes
+
+ul.orbit-container {
+    height: auto !important;
+}
+li.orbit-slide {
+    max-height: none !important;
+}
+
+.orbit .orbit-caption h2 {
+	padding: 0 20px 0 20px;
+	color: $white;
+	@include breakpoint(medium) {
+	    padding-top: 20%;
+	}
+	@include breakpoint(large) {
+	    padding-top: 40%;
+	}
+}
+
+.suggested-keywords a.button { margin: 10px; }
+
 footer {
 	@extend .padding-20;
-	background: $ash;
-	.footer-links, .copyright { @extend .text-center; }
-	.footer-links, {
-		@include breakpoint(medium) {
-		    text-align: left;
-		}
-	}
-	.copyright, {
-		@extend .text-white;
-		padding-top: 40px;
-		@include breakpoint(medium) {
-		    text-align: right;
-		    padding-top: 0;
-		}
-	}
-	.footer-links a {
-		@extend .display-block;
-		@extend .text-white;
-		@include breakpoint(medium) {
-		    display: inline-block;
-		    padding-right: 20px;
-		}
-	}
 }

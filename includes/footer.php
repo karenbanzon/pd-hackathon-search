@@ -3,16 +3,9 @@
 		</div>
 
 		<footer class="expanded row">
-			<div class="small-12 medium-6 columns">
-				<div class="footer-links">
-					<a href="">Footer 1</a>
-					<a href="">Footer 2</a>
-					<a href="">Footer 3</a>
-				</div>
-			</div>
-			<div class="small-12 medium-6 columns">
-				<div class="copyright">
-					<span>Copyright</span>
+			<div class="small-12">
+				<div class="copyright text-center">
+					<span>Copyright &copy; 2017</span>
 				</div>
 			</div>
 		</footer>
