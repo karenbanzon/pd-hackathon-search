@@ -32,8 +32,8 @@
 
 
 #### Core pages
-    Stickersheet - _/index.php_
-    Home Page - _/home.php_
+* Stickersheet - _/index.php_
+* Home Page - _/home.php_
 
 
 #### Demo site
@@ -41,13 +41,13 @@
 
 
 #### Roles
-**Arpee*
+**Arpee**
 * Query handling and logic layer/s in between API and frontend
 
 **Denise**
 * Select sample word cloud of related keywords to “teach” to the platform
 * UX review of interface
 
-**Karen*
+**Karen**
 * Design user interface
 * Provide sample cases
