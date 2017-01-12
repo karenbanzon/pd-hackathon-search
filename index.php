@@ -28,7 +28,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="small-12 columns padding-top-20 suggested-keywords">
+			<div class="small-12 columns padding-top-20 padding-bottom-20 suggested-keywords">
 				<p>Try adding these keywords:</p>
 				<a href="" class="button secondary">secondhand</a>
 				<a href="" class="button secondary">core i5</a>
