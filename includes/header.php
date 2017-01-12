@@ -48,6 +48,7 @@
 				<!-- off-canvas right menu -->
 				<div class="off-canvas position-right" id="offCanvasRight" data-off-canvas data-position="right">
 					<ul class="vertical menu">
+						<li><a href="index.php">Stickersheet</a></li>
 						<li><a href="home.php">Home</a></li>
 						<li><a href="spell-check.php">Spell Check</a></li>
 						<li><a href="location-detection.php">Location Detection</a></li>
@@ -62,7 +63,7 @@
 						<ul class="dropdown menu" data-dropdown-menu>
 							<li>
 								<div class="brand">
-									<a href=""><img src="images/olx-logo.png"></a>
+									<a href="/"><img src="images/olx-logo.png"></a>
 								</div>
 							</li>
 							<li><a href="home.php">Home</a></li>
