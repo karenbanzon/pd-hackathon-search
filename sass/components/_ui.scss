@@ -1,0 +1,64 @@
+// Site-specific UI
+
+body { background: $platinum; }
+
+header {
+	.brand {
+		height: 80px;
+		-webkit-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		-o-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;
+		img {
+			height: 100%; display: inline-block;
+			-webkit-transition: all 0.3s ease-in-out;
+			-moz-transition: all 0.3s ease-in-out;
+			-o-transition: all 0.3s ease-in-out;
+			transition: all 0.3s ease-in-out;
+		}
+		@include breakpoint(large) {
+		    height: 60px;
+		}
+	}
+}
+
+.off-canvas-content { box-shadow: none; }
+
+section {
+	padding-top: 40px;
+	// @extend .margin-bottom-20;
+}
+
+.title-bar-right .menu-icon {
+	width: 25px;
+    // height: 0px;
+    margin-top: 30px;
+    &:after { height: 4px; }
+}
+
+footer {
+	@extend .padding-20;
+	background: $ash;
+	.footer-links, .copyright { @extend .text-center; }
+	.footer-links, {
+		@include breakpoint(medium) {
+		    text-align: left;
+		}
+	}
+	.copyright, {
+		@extend .text-white;
+		padding-top: 40px;
+		@include breakpoint(medium) {
+		    text-align: right;
+		    padding-top: 0;
+		}
+	}
+	.footer-links a {
+		@extend .display-block;
+		@extend .text-white;
+		@include breakpoint(medium) {
+		    display: inline-block;
+		    padding-right: 20px;
+		}
+	}
+}
