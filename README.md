@@ -1,6 +1,6 @@
 # pd-hackathon-search
 
-#### Scope
+## Scope
 1. Spell check
     * Similar to google
     * Display results for the spell checked query
@@ -31,16 +31,16 @@
     * Static page sample: _/keyword-learning.php_
 
 
-#### Core pages
+## Core pages
 * Stickersheet - _/index.php_
 * Home Page - _/home.php_
 
 
-#### Demo site
+## Demo site
 (TBA)
 
 
-#### Roles
+## Roles
 **Arpee**
 * Query handling and logic layer/s in between API and frontend
 
