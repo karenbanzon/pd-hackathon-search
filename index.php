@@ -3,7 +3,7 @@
 	<!-- Main Section -->
 	<section class="expanded row padding-10">
 		<div class="small-12 large-8 large-offset-2 padding-10">
-			<h2>Ano hanap mo?</h1>
+			<h2 class="padding-left-10">Ano hanap mo?</h1>
 			<div class="small-12 large-6 columns">
 				<div class="input-group">
 					<span class="input-group-label icon icon-search"></span>
@@ -44,7 +44,9 @@
 				<p>Showing 1,900 results for <strong>Lenovo</strong>.</p>
 			</div>
 			<div class="message-spelling">
-				<p>Showing 1,900 results for <strong>Lenovo</strong>. <small><a href="">Search instead for <strong>Lenvo</strong>.</a></small></p>
+				<p>Showing 1,900 results for <strong>Lenovo</strong>.
+				<br>
+				<small><a href="">Search instead for <strong>Lenvo</strong>.</a></small></p>
 			</div>
 			<div class="callout secondary message-location" data-closable>
 				<span>Your search has been filtered for ads in <strong>Pasig</strong>.</span>

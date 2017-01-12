@@ -3,7 +3,7 @@
     <!-- Main Section -->
     <section class="expanded row padding-10">
         <div class="small-12 large-8 large-offset-2 padding-10">
-            <h2>Ano hanap mo?</h1>
+            <h2 class="padding-left-10">Ano hanap mo?</h1>
             <div class="small-12 large-6 columns">
                 <div class="input-group">
                     <span class="input-group-label icon icon-search"></span>
