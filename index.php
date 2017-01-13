@@ -40,20 +40,20 @@
 		
 		<!-- Messages -->
 		<div class="small-12 large-8 large-offset-2 padding-10">
-			<div class="message-standard">
-				<p>Showing 1,900 results for <strong>Lenovo</strong>.</p>
-			</div>
-			<div class="message-spelling">
-				<p>Showing 1,900 results for <strong>Lenovo</strong>.
-				<br>
-				<small><a href="">Search instead for <strong>Lenvo</strong>.</a></small></p>
-			</div>
 			<div class="callout secondary message-location" data-closable>
 				<span>Your search has been filtered for ads in <strong>Pasig</strong>.</span>
 				<a data-open="locationModal" class="button secondary small hollow">Change location</a>
 				<button class="close-button" aria-label="Dismiss alert" type="button" data-close>
 					<span aria-hidden="true">&times;</span>
 				</button>
+			</div>
+			<div class="message-standard">
+				<p>Showing 3 results for <strong>Lenovo</strong>.</p>
+			</div>
+			<div class="message-spelling">
+				<p>Showing 3 results for <strong>Lenovo</strong>.
+				<br>
+				<small><a href="">Search instead for <strong>Lenvo</strong>.</a></small></p>
 			</div>
 		</div>
 
